@@ -1,0 +1,10 @@
+{
+  "name": "Zipgrade KZ — тест тексеру",
+  "short_name": "Zipgrade KZ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#1d4ed8",
+  "lang": "kk",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
