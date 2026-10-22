@@ -1,0 +1,14 @@
+{
+  "name": "new-zipgrade",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ZipGrade-style test grading web app (Kazakh UI)",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve -l 8080 .",
+    "test": "node tests/omr.test.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.1"
+  }
+}
